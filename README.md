@@ -85,7 +85,7 @@ bellabeat-smart-device-analysis/
 │
 ├── visualizations/
 │   └── bellabeat_dashboard.twbx
-│   └── bellabeat_presentation.twbx
+│   └── bellabeat_presentation.pptx
 │
 └── README.md
 ```
