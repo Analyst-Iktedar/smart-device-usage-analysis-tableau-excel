@@ -65,8 +65,8 @@ Bellabeat wanted to understand how consumers use non-Bellabeat smart devices, an
 
 ## Deliverables
 
-- [`View Tableau Dashboard`](#) — replace with actual link
-- [`View Presentation`](#) — replace with actual link
+- [`View Tableau Dashboard`](https://public.tableau.com/app/profile/iktedar.ahmed3695/viz/BellabeatDashboard_17728646844540/Dashboard1Home)
+- [`View Presentation`](https://docs.google.com/presentation/d/1QKjuFMND1eYHuEzMlZiFuZuT2IIWT6aCfQmGocVE--0/preview?slide=id.p1)
 
 ---
 
@@ -76,10 +76,16 @@ Bellabeat wanted to understand how consumers use non-Bellabeat smart devices, an
 bellabeat-smart-device-analysis/
 │
 ├── data/
-│   └── (raw CSVs not included — available on Kaggle)
+│   └── dailyActivity_merged1.csv
+│   └── dailyActivity_merged2.csv
+│   └── sleepDay_merged.csv
 │
 ├── analysis/
-│   └── bellabeat_cleaned.xlsx
+│   └── all_merged_summaries.xlsx
+│
+├── visualizations/
+│   └── bellabeat_dashboard.twb
+│   └── bellabeat_presentation.twb
 │
 └── README.md
 ```
